@@ -1,0 +1,15 @@
+body{
+    max-width: 500px;
+    margin: auto;
+}
+
+h1{color: blue
+}
+
+table{border-collapse: collapse;
+      width: 100%;
+}
+
+table,td,th{border: 1px black solid;
+            text-align: left;
+            padding:  1px;}
